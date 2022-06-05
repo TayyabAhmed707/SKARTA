@@ -6,6 +6,9 @@ Sarosh - 305963
 Ahsan Tahir - 321888
 Tayyab Ahmed - 294827
 
+![Poster](https://user-images.githubusercontent.com/67947150/172057701-ca5c1539-1b30-48e5-89aa-682f2d4913be.png)
+
+![image](https://user-images.githubusercontent.com/67947150/172057743-71da5b0a-089f-4f15-9879-8bcb9590e6e8.png)
 
 Before you start the game:
 
