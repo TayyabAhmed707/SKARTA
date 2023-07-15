@@ -2,9 +2,10 @@ Welcome to Skarta!
 
 Created By:
 
-Sarosh - 305963
-Ahsan Tahir - 321888
-Tayyab Ahmed - 294827
+Tayyab Ahmed, 
+Sarosh Krishan, 
+Ahsan Tahir, 
+
 
 ![Poster](https://user-images.githubusercontent.com/67947150/172057701-ca5c1539-1b30-48e5-89aa-682f2d4913be.png)
 
